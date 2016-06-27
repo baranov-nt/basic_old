@@ -1,0 +1,12 @@
+{
+  "name": "basic",
+  "description": "basic app",
+  "author": "Vladimir Baranov",
+  "dependencies": {
+    "express": "*",
+    "socket.io": "*",
+    "redis": "*",
+    "log": "*"
+  },
+  "engine": "node 0.4.1"
+}
